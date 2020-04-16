@@ -1,0 +1,23 @@
+{
+  "name": "vcw3_lso",
+  "version": "1.0.0",
+  "description": "VCW3 LSO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mark Killen",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VCW3-admin/VCW3_lso_bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VCW3-admin/VCW3_lso_bot/issues"
+  },
+  "homepage": "https://github.com/VCW3-admin/VCW3_lso_bot#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
